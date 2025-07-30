@@ -61,5 +61,11 @@
 </p>
 
 
-![gitanimals](https://gitanimals.com/api/user.svg?username=yjshin-cloud)
-![snake gif](https://github.com/yjshin-cloud/yjshin-cloud/blob/output/github-contribution-grid-snake.svg)
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yjshin-cloud&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/yjshin-cloud"
+  width="600"
+  height="300"
+/>
+</a>
