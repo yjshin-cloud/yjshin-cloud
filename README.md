@@ -80,5 +80,3 @@
   <img alt="Pac-Man contribution graph"
        src="https://raw.githubusercontent.com/yjshin-cloud/yjshin-cloud/output/pacman-contribution-graph.svg">
 </picture>
-
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
