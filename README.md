@@ -16,8 +16,14 @@
 [![Velog Badge](http://img.shields.io/badge/-Velog-20C997?style=flat&logo=velog&logoColor=white&style=plastic&link=https://velog.io/@yjshin)](https://velog.io/@yjshin)
 
 
-
 # 🛠️ Skills
+
+<details>
+<summary>🔧 Skills detail</summary>
+
+<!-- summary 아래 한칸 공백 두어야함 -->
+
+# 🔧 Skills
 
 
 ## Languege
@@ -75,7 +81,7 @@
        width="36" height="36" alt="Terraform" title="Terraform"/>
 </a></p>
 
-
+</details>
 
 
 
