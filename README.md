@@ -15,6 +15,8 @@
 <a href="mailto:yjshin.cloud@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&style=plastic&link=yjshin.cloud@gmail.com"/></a> 
 [![Velog Badge](http://img.shields.io/badge/-Velog-20C997?style=flat&logo=velog&logoColor=white&style=plastic&link=https://velog.io/@yjshin)](https://velog.io/@yjshin)
 [![Tistory Badge](https://img.shields.io/badge/Tistory-FF6A00?style=flat&logo=tistory&logoColor=white&labelColor=FF6A00&color=FF6A00)](https://deeprun.tistory.com/category/Cloud%20Engineering%20Bootcamp)
+[![TIL Blog Badge](https://img.shields.io/badge/TIL%20Blog-181717?style=flat&logo=github&logoColor=white&link=https://yjshin-cloud.github.io/TIL)](https://yjshin-cloud.github.io/TIL)
+
 
 # 🛠️ Skills
 
