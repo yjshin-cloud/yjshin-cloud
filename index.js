@@ -1,12 +1,18 @@
-import { writeFileSync } from "node:fs";
+import { readFileSync, writeFileSync } from "node:fs";
 import Parser from "rss-parser";
 
+// 기존 README.md 파일 읽기
+const readmePath = "README.md";
+let readmeContent = readFileSync(readmePath, "utf8");
+
+// RSS 파서 생성
 const parser = new Parser({
   headers: {
     Accept: "application/rss+xml, application/xml, text/xml; q=0.1",
   },
 });
 
+// 최신 블로그 포스트 추가하는 함수
 (async () => {
   try {
     const feed = await parser.parseURL("https://deeprun.tistory.com/rss");
