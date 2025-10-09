@@ -1,4 +1,4 @@
-name: generate pacman game
+name: generate pacman & tistory update
 
 on:
   schedule: # Run automatically every 24 hours
@@ -30,24 +30,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+  ####################################### Tistory Setting
 
-
-####################################### Tistory Setting
-
-# Controls when the workflow will run
-on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
-  # 1시간에 한번씩 아래 스크립트를 실행한다.
-  schedule:
-    - cron: "0 */1 * * *"
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
-jobs:
-  # This workflow contains a single job called "build"
-  build:
+  update-tistory:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
@@ -55,7 +42,7 @@ jobs:
           node-version: 20
 
       - name: Install dependencies
-        run: | 
+        run: |
           npm ci
           npm install rss-parser
 
