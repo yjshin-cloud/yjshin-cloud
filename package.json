@@ -1,0 +1,25 @@
+{
+  "name": "yjshin-cloud",
+  "version": "1.0.0",
+  "description": "![yjshin-cloud's GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yjshin-cloud&theme=vue)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yjshin-cloud/yjshin-cloud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yjshin-cloud/yjshin-cloud/issues"
+  },
+  "homepage": "https://github.com/yjshin-cloud/yjshin-cloud#readme",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
