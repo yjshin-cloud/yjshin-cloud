@@ -70,8 +70,7 @@ jobs:
       - name: Commit README
         if: steps.verify_diff.outputs.changed == 'true'
         run: |
-          git config --local user.email "yjshin.cloud@gmail.com
-"
+          git config --local user.email "yjshin.cloud@gmail.com"
           git config --local user.name "yjshin-cloud"
           git add .
           git commit -m "Update README.md"
