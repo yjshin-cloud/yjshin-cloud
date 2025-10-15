@@ -71,6 +71,8 @@
 
 ## 📕 Latest Blog Posts
 <ul>
+  <li><a href='https://deeprun.tistory.com/288' target='_blank'>[AWS CLF-C02] Q201 ~ Q250 오답노트 10EA</a></li>
+  <li><a href='https://deeprun.tistory.com/287' target='_blank'>[AWS CLF-C02] Q151 ~ Q200 오답노트 7EA</a></li>
   <li><a href='https://deeprun.tistory.com/286' target='_blank'>[AWS CLF-C02] Q101 ~ Q150 오답노트 7EA</a></li>
   <li><a href='https://deeprun.tistory.com/285' target='_blank'>[AWS CLF-C02] Q051 ~ Q100 오답노트 5EA</a></li>
   <li><a href='https://deeprun.tistory.com/284' target='_blank'>[AWS CLF-C02] Q001 ~ Q050 오답노트 6EA</a></li>
@@ -79,6 +81,4 @@
   <li><a href='https://deeprun.tistory.com/281' target='_blank'>[AWS SOA-C02] Q430 ~ Q478 오답노트 3EA</a></li>
   <li><a href='https://deeprun.tistory.com/280' target='_blank'>[AWS SOA-C02] Q342 ~ Q382 오답노트 7EA</a></li>
   <li><a href='https://deeprun.tistory.com/279' target='_blank'>[AWS SOA-C02] Q151 ~ Q200 오답노트 6EA</a></li>
-  <li><a href='https://deeprun.tistory.com/278' target='_blank'>[AWS SOA-C02] Multiple Choice-2 오답노트 14EA</a></li>
-  <li><a href='https://deeprun.tistory.com/277' target='_blank'>[AWS SOA-C02] Multiple Choice-1 오답노트 15EA</a></li>
 </ul>
