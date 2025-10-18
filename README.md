@@ -71,6 +71,7 @@
 
 ## 📕 Latest Blog Posts
 <ul>
+  <li><a href='https://deeprun.tistory.com/294' target='_blank'>5. Windows Server EC2 Instance Configuration</a></li>
   <li><a href='https://deeprun.tistory.com/293' target='_blank'>4. Network Configuration</a></li>
   <li><a href='https://deeprun.tistory.com/292' target='_blank'>[AWS CLF-C02] Q251 ~ Q300 오답노트 2EA</a></li>
   <li><a href='https://deeprun.tistory.com/291' target='_blank'>3. AWS Storage</a></li>
@@ -80,5 +81,4 @@
   <li><a href='https://deeprun.tistory.com/287' target='_blank'>[AWS CLF-C02] Q151 ~ Q200 오답노트 7EA</a></li>
   <li><a href='https://deeprun.tistory.com/286' target='_blank'>[AWS CLF-C02] Q101 ~ Q150 오답노트 7EA</a></li>
   <li><a href='https://deeprun.tistory.com/285' target='_blank'>[AWS CLF-C02] Q051 ~ Q100 오답노트 5EA</a></li>
-  <li><a href='https://deeprun.tistory.com/284' target='_blank'>[AWS CLF-C02] Q001 ~ Q050 오답노트 6EA</a></li>
 </ul>
