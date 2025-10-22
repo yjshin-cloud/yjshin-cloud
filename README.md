@@ -71,14 +71,14 @@
 
 ## 📕 Latest Blog Posts
 <ul>
+  <li><a href='https://deeprun.tistory.com/304' target='_blank'>13. Configuring high availability for applications</a></li>
+  <li><a href='https://deeprun.tistory.com/303' target='_blank'>12. AWS Config S3 Public Access Detection and Assessment</a></li>
+  <li><a href='https://deeprun.tistory.com/302' target='_blank'>11. CloudTrail: Create Trails &amp; Track API Activity</a></li>
+  <li><a href='https://deeprun.tistory.com/301' target='_blank'>10. Amazon CloudWatch Agent Install &amp; Start</a></li>
+  <li><a href='https://deeprun.tistory.com/300' target='_blank'>9. AWS Transit Gateway</a></li>
+  <li><a href='https://deeprun.tistory.com/299' target='_blank'>8. AWS VPC Peering</a></li>
+  <li><a href='https://deeprun.tistory.com/298' target='_blank'>7. VPC Endpoint</a></li>
+  <li><a href='https://deeprun.tistory.com/297' target='_blank'>6. Linux Web Server Deploy</a></li>
   <li><a href='https://deeprun.tistory.com/296' target='_blank'>[AWS CLF-C02] Q401 ~ Q500 오답노트 13EA</a></li>
   <li><a href='https://deeprun.tistory.com/295' target='_blank'>[AWS CLF-C02] Q301 ~ Q400 오답노트 6EA</a></li>
-  <li><a href='https://deeprun.tistory.com/294' target='_blank'>5. Windows Server EC2 Instance Configuration</a></li>
-  <li><a href='https://deeprun.tistory.com/293' target='_blank'>4. Network Configuration</a></li>
-  <li><a href='https://deeprun.tistory.com/292' target='_blank'>[AWS CLF-C02] Q251 ~ Q300 오답노트 2EA</a></li>
-  <li><a href='https://deeprun.tistory.com/291' target='_blank'>3. AWS Storage</a></li>
-  <li><a href='https://deeprun.tistory.com/290' target='_blank'>2. AWS 컴퓨팅 서비스</a></li>
-  <li><a href='https://deeprun.tistory.com/289' target='_blank'>1. 계정 보안 / 다중 계정</a></li>
-  <li><a href='https://deeprun.tistory.com/288' target='_blank'>[AWS CLF-C02] Q201 ~ Q250 오답노트 10EA</a></li>
-  <li><a href='https://deeprun.tistory.com/287' target='_blank'>[AWS CLF-C02] Q151 ~ Q200 오답노트 7EA</a></li>
 </ul>
