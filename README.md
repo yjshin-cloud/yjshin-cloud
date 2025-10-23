@@ -71,6 +71,8 @@
 
 ## 📕 Latest Blog Posts
 <ul>
+  <li><a href='https://deeprun.tistory.com/306' target='_blank'>[AWS CLF-C02] Q501 ~ Q600 오답노트 5EA</a></li>
+  <li><a href='https://deeprun.tistory.com/305' target='_blank'>14. CloudFront + S3 Static Website Deployment</a></li>
   <li><a href='https://deeprun.tistory.com/304' target='_blank'>13. Configuring high availability for applications</a></li>
   <li><a href='https://deeprun.tistory.com/303' target='_blank'>12. AWS Config S3 Public Access Detection and Assessment</a></li>
   <li><a href='https://deeprun.tistory.com/302' target='_blank'>11. CloudTrail: Create Trails &amp; Track API Activity</a></li>
@@ -79,6 +81,4 @@
   <li><a href='https://deeprun.tistory.com/299' target='_blank'>8. AWS VPC Peering</a></li>
   <li><a href='https://deeprun.tistory.com/298' target='_blank'>7. VPC Endpoint</a></li>
   <li><a href='https://deeprun.tistory.com/297' target='_blank'>6. Linux Web Server Deploy</a></li>
-  <li><a href='https://deeprun.tistory.com/296' target='_blank'>[AWS CLF-C02] Q401 ~ Q500 오답노트 13EA</a></li>
-  <li><a href='https://deeprun.tistory.com/295' target='_blank'>[AWS CLF-C02] Q301 ~ Q400 오답노트 6EA</a></li>
 </ul>
