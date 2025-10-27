@@ -71,6 +71,7 @@
 
 ## 📕 Latest Blog Posts
 <ul>
+  <li><a href='https://deeprun.tistory.com/308' target='_blank'>[AWS SAA-C03] Domain 2 Review: AWS Certified Solutions Architect - Associate</a></li>
   <li><a href='https://deeprun.tistory.com/307' target='_blank'>[AWS CLF-C02] Q601 ~ Q719 오답노트 5EA</a></li>
   <li><a href='https://deeprun.tistory.com/306' target='_blank'>[AWS CLF-C02] Q501 ~ Q600 오답노트 5EA</a></li>
   <li><a href='https://deeprun.tistory.com/305' target='_blank'>14. CloudFront + S3 Static Website Deployment</a></li>
@@ -80,5 +81,4 @@
   <li><a href='https://deeprun.tistory.com/301' target='_blank'>10. Amazon CloudWatch Agent Install &amp; Start</a></li>
   <li><a href='https://deeprun.tistory.com/300' target='_blank'>9. AWS Transit Gateway</a></li>
   <li><a href='https://deeprun.tistory.com/299' target='_blank'>8. AWS VPC Peering</a></li>
-  <li><a href='https://deeprun.tistory.com/298' target='_blank'>7. VPC Endpoint</a></li>
 </ul>
