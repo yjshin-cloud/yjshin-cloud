@@ -71,14 +71,14 @@
 
 ## 📕 Latest Blog Posts
 <ul>
+  <li><a href='https://deeprun.tistory.com/316' target='_blank'>22. Amazon RDS - MySQL Practice</a></li>
+  <li><a href='https://deeprun.tistory.com/315' target='_blank'>21. Calling Lambda with API Gateway</a></li>
+  <li><a href='https://deeprun.tistory.com/314' target='_blank'>20. AWS Lambda Function</a></li>
+  <li><a href='https://deeprun.tistory.com/313' target='_blank'>19. Presigned URL Practice</a></li>
+  <li><a href='https://deeprun.tistory.com/312' target='_blank'>18. AWS S3 Practice</a></li>
+  <li><a href='https://deeprun.tistory.com/311' target='_blank'>17. AWS CLI Practice</a></li>
+  <li><a href='https://deeprun.tistory.com/310' target='_blank'>16. Using Amazon Q Developer</a></li>
+  <li><a href='https://deeprun.tistory.com/309' target='_blank'>15. Configuring the IDE development environment</a></li>
   <li><a href='https://deeprun.tistory.com/308' target='_blank'>[AWS SAA-C03] Domain 2 Review: AWS Certified Solutions Architect - Associate</a></li>
   <li><a href='https://deeprun.tistory.com/307' target='_blank'>[AWS CLF-C02] Q601 ~ Q719 오답노트 5EA</a></li>
-  <li><a href='https://deeprun.tistory.com/306' target='_blank'>[AWS CLF-C02] Q501 ~ Q600 오답노트 5EA</a></li>
-  <li><a href='https://deeprun.tistory.com/305' target='_blank'>14. CloudFront + S3 Static Website Deployment</a></li>
-  <li><a href='https://deeprun.tistory.com/304' target='_blank'>13. Configuring high availability for applications</a></li>
-  <li><a href='https://deeprun.tistory.com/303' target='_blank'>12. AWS Config S3 Public Access Detection and Assessment</a></li>
-  <li><a href='https://deeprun.tistory.com/302' target='_blank'>11. CloudTrail: Create Trails &amp; Track API Activity</a></li>
-  <li><a href='https://deeprun.tistory.com/301' target='_blank'>10. Amazon CloudWatch Agent Install &amp; Start</a></li>
-  <li><a href='https://deeprun.tistory.com/300' target='_blank'>9. AWS Transit Gateway</a></li>
-  <li><a href='https://deeprun.tistory.com/299' target='_blank'>8. AWS VPC Peering</a></li>
 </ul>
