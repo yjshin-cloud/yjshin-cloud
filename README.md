@@ -67,6 +67,9 @@
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/yjshin-cloud/yjshin-cloud/output/pacman-contribution-graph.svg">
 </picture>
 
+## 🌱 Git Garden
+[![GitGarden](https://gitgarden.marshallku.dev/?user_name=yjshin-cloud)](https://github.com/marshallku/gitgarden)
+
 ---
 
 ## 📕 Latest Blog Posts
