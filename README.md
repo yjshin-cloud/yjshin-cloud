@@ -71,14 +71,14 @@
 
 ## 📕 Latest Blog Posts
 <ul>
+  <li><a href='https://deeprun.tistory.com/321' target='_blank'>27. Hands-on: Setting up a data lake using Lake Formation</a></li>
+  <li><a href='https://deeprun.tistory.com/320' target='_blank'>26. Hands-on: Amazon S3 Access Points</a></li>
+  <li><a href='https://deeprun.tistory.com/319' target='_blank'>25. DynamoDB Hands-on: Table CRUD with IntelliJ</a></li>
+  <li><a href='https://deeprun.tistory.com/318' target='_blank'>24. Static websites and DynamoDB</a></li>
+  <li><a href='https://deeprun.tistory.com/317' target='_blank'>23. Configuring the DynamoDB Todos Table</a></li>
   <li><a href='https://deeprun.tistory.com/316' target='_blank'>22. Amazon RDS - MySQL Practice</a></li>
   <li><a href='https://deeprun.tistory.com/315' target='_blank'>21. Calling Lambda with API Gateway</a></li>
   <li><a href='https://deeprun.tistory.com/314' target='_blank'>20. AWS Lambda Function</a></li>
   <li><a href='https://deeprun.tistory.com/313' target='_blank'>19. Presigned URL Practice</a></li>
   <li><a href='https://deeprun.tistory.com/312' target='_blank'>18. AWS S3 Practice</a></li>
-  <li><a href='https://deeprun.tistory.com/311' target='_blank'>17. AWS CLI Practice</a></li>
-  <li><a href='https://deeprun.tistory.com/310' target='_blank'>16. Using Amazon Q Developer</a></li>
-  <li><a href='https://deeprun.tistory.com/309' target='_blank'>15. Configuring the IDE development environment</a></li>
-  <li><a href='https://deeprun.tistory.com/308' target='_blank'>[AWS SAA-C03] Domain 2 Review: AWS Certified Solutions Architect - Associate</a></li>
-  <li><a href='https://deeprun.tistory.com/307' target='_blank'>[AWS CLF-C02] Q601 ~ Q719 오답노트 5EA</a></li>
 </ul>
