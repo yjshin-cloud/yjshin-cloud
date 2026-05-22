@@ -74,6 +74,7 @@
 
 ## 📕 Latest Blog Posts
 <ul>
+  <li><a href='https://deeprun.tistory.com/323' target='_blank'>AWS Summit Seoul 2026</a></li>
   <li><a href='https://deeprun.tistory.com/322' target='_blank'>28. Hands-on: Building an Event Site (3-Tier)</a></li>
   <li><a href='https://deeprun.tistory.com/321' target='_blank'>27. Hands-on: Setting up a data lake using Lake Formation</a></li>
   <li><a href='https://deeprun.tistory.com/320' target='_blank'>26. Hands-on: Amazon S3 Access Points</a></li>
@@ -83,5 +84,4 @@
   <li><a href='https://deeprun.tistory.com/316' target='_blank'>22. Amazon RDS - MySQL Practice</a></li>
   <li><a href='https://deeprun.tistory.com/315' target='_blank'>21. Calling Lambda with API Gateway</a></li>
   <li><a href='https://deeprun.tistory.com/314' target='_blank'>20. AWS Lambda Function</a></li>
-  <li><a href='https://deeprun.tistory.com/313' target='_blank'>19. Presigned URL Practice</a></li>
 </ul>
